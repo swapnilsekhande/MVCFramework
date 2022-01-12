@@ -1,0 +1,29 @@
+@MiracleDevelopersgrp Author MVC
+
+Rights Details.
+--> 
+    1 . Before Using this FrameWork. Take A Leagal Permission.
+    2 . FrameWork is LightWeight And Processural Aproach Base. 
+    3 . For Quick And Simpler Development.
+    4 . Miracle MVC FrameWork is Under Development of MiracleDevelopersgrp.
+
+Framework Details
+-->
+    1 . PHP Verion => '8.0.0 < Versions'
+    2 . MySQLi     => 'All Version Supporting PHP 8.0.0'
+
+FrameWork Pros : 
+    1 . Simple to Use.
+    2 . Beginers Friendly.
+    3 . Quick Development.
+    4 . Most PHP Version Supporting.  
+
+FrameWork Cons : 
+    1 . Object Oriented Approach Not Available.
+    2 . For Big Applications Not Usefull.
+    3 . Composer File is Not Present.
+
+
+
+
+@2022 All Rights Reserve
